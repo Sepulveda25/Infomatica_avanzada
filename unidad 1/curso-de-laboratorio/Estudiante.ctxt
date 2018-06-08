@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nombreCompleto\ matriculaEstudiante
+comment0.target=Estudiante(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Crea\ un\ nuevo\ estudiante\ con\ un\ nombre\ y\ una\ matr\u00EDcula\ dados.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment1.text=\r\n\ Retorna\ el\ nombre\ completo\ de\ este\ estudiante.\r\n
+comment2.params=nombreReemplazo
+comment2.target=void\ cambiaNombre(java.lang.String)
+comment2.text=\r\n\ establece\ un\ nuevo\ nombre\ para\ este\ estudiante.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMatriculaEstudiante()
+comment3.text=\r\n\ Retorna\ la\ matr\u00EDcula\ de\ este\ estudiante.\r\n
+comment4.params=puntosAditionales
+comment4.target=void\ agregaCreditos(int)
+comment4.text=\r\n\ Agrega\ algunos\ puntos\ de\ cr\u00E9dito\ al\ acumulado\ del\ estudiante.\r\n
+comment5.params=
+comment5.target=int\ getCreditos()
+comment5.text=\r\n\ Retorna\ el\ n\u00FAmero\ de\ puntos\ de\ cr\u00E9dito\ que\ el\ estudiante\ ha\ acumulado.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getNombreUsuario()
+comment6.text=\r\n\ Retorna\ el\ nombre\ de\ usuario\ de\ este\ estudiante.\ El\ nombre\ de\ usuario\ es\r\n\ una\ combinaci\u00F3n\ de\ los\ primeros\ cuatro\ caracteres\ del\ nombre\ del\ estudiante\r\n\ y\ los\ tres\ primeros\ caracteres\ de\ su\ matr\u00EDcula.\r\n
+comment7.params=
+comment7.target=void\ print()
+comment7.text=\r\n\ Imprime\ en\ la\ pantalla\ el\ nombre\ y\ la\ matr\u00EDcula\ de\ este\ estudiante.\r\n
+numComments=8

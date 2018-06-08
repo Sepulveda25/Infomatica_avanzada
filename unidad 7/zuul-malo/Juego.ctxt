@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Juego()
+comment0.text=\r\n\ Crea\ el\ juego\ e\ inicializa\ el\ mapa\ interno.\r\n
+comment1.params=
+comment1.target=void\ crearHabitaciones()
+comment1.text=\r\n\ Crea\ todas\ las\ habitaciones\ y\ relaciona\ todas\ sus\ salidas.\r\n
+comment2.params=
+comment2.target=void\ jugar()
+comment2.text=\r\n\ Rutina\ principal\ para\ jugar.\ Ciclo\ que\ se\ ejecuta\ hasta\ que\ se\ \r\n\ termine\ de\ jugar\r\n
+comment3.params=
+comment3.target=void\ imprimirBienvenida()
+comment3.text=\r\n\ Imprime\ el\ mensaje\ de\ apertura\ para\ el\ jugador\r\n
+comment4.params=
+comment4.target=void\ imprimirAyuda()
+comment4.text=\r\n\ Imprime\ informacion\ de\ ayuda.\r\n\ Aqu\u00ED\ imprimimos\ alguos\ mensajes\ est\u00FApidos\ y\ cr\u00EDpticos\ y\ una\r\n\ lista\ de\ las\ palabras\ comando.\r\n
+numComments=5

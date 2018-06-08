@@ -1,0 +1,1 @@
+Crear una ListaAlfabetica y una ListaPorDni de manera tal de que implementen la interfaz Lista, una ordena automáticamente las Personas por dni y la otra ordena alfabéticamente por Apellido y Nombre. Descomentar en la clase Padrón las lineas comentadas del constructor para utilizar ambas implementaciones.

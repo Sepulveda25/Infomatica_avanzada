@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=alto\ ancho\ profundo
+comment0.target=Ladrillo(int,\ int,\ int)
+comment0.text=\r\n\ Crea\ un\ Ladrillo\ dadas\ sus\ dimensiones\ en\ centimetros.\r\n\ @param\ alto\ altura\ del\ ladrillo.\r\n\ @param\ ancho\ ancho\ del\ ladrillo.\r\n\ @param\ profundo\ profundidad\ del\ ladrillo.\r\n
+comment1.params=
+comment1.target=double\ getSuperficieTotal()
+comment1.text=\r\n\ @return\ la\ superfice\ total\ de\ este\ ladrillo\ en\ cenimetros\ cuadrados.\r\n
+comment2.params=
+comment2.target=double\ getPeso()
+comment2.text=\r\n\ @return\ el\ peso\ del\ ladrillo\ en\ kgs\r\n
+comment3.params=
+comment3.target=int\ getVolumen()
+comment3.text=\r\n\ @return\ el\ volumen\ del\ ladrillo\ en\ centimetros\ cubicos\r\n
+comment4.params=
+comment4.target=double\ getAlto()
+comment4.text=\r\n\ @return\ la\ altura\ del\ ladirllo\ en\ centimetros\r\n
+numComments=5

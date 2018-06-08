@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=angulo
+comment0.target=void\ rotar(int)
+comment0.text=\r\n\ Rota\ una\ figura\ un\ angulo\ determinado\r\n\ @param\ angulo\r\n
+numComments=1

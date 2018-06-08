@@ -1,0 +1,13 @@
+Corregir:
+
+public void getEdad()
+{
+	return edad;
+}
+
+Correccion:
+
+public int getEdad()
+{
+	return edad;
+}

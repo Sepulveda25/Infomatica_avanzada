@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=ladrillosEnPlano\ alto
+comment0.target=Pallete(int,\ int)
+comment0.text=\r\n\ Crea\ un\ pallete\ con\ una\ cantidad\ de\ ladrillos\ dada\r\n\ @param\ ladrillosEnPlano\ el\ numero\ de\ ladirllos\ en\ cada\ nivel\ desde\ la\ base\r\n\ @param\ alto\ el\ numero\ de\ ladrillos\ apilados\ uno\ sobre\ otro\r\n
+comment1.params=
+comment1.target=double\ getPeso()
+comment1.text=\r\n\ @return\ el\ peso\ del\ pallete\ (en\ kg)\r\n
+comment2.params=
+comment2.target=double\ getAlto()
+comment2.text=\r\n\ @return\ la\ altura\ de\ la\ pila\ (en\ cm)\r\n
+numComments=3

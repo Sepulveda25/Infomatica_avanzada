@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=autorLibro\ tituloLibro
+comment0.target=Libro(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Establece\ los\ campos\ de\ autor\ y\ t\u00EDtulo\ cuando\r\n\ se\ construye\ este\ objeto.\r\n
+numComments=1

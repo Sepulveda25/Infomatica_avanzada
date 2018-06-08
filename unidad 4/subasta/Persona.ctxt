@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Persona(java.lang.String)
+comment0.text=\r\n\ Crea\ una\ nueva\ persona\ con\ el\ nombre\ dado.\r\n\ @param\ nombre\ El\ nombre\ de\ la\ persona.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment1.text=\r\n\ @return\ El\ nombre\ de\ la\ persona.\r\n
+numComments=2

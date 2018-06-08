@@ -1,0 +1,24 @@
+#BlueJ package file
+package.editor.height=576
+package.editor.width=1248
+package.editor.x=12
+package.editor.y=12
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.editor.height=487
+readme.editor.width=610
+readme.editor.x=174
+readme.editor.y=217
+target1.editor.height=744
+target1.editor.width=1382
+target1.editor.x=-8
+target1.editor.y=-8
+target1.height=50
+target1.name=MaquinaDeBoletos
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=130
+target1.x=170
+target1.y=90

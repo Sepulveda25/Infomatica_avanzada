@@ -1,0 +1,14 @@
+public class Personas
+{
+	private string nombre;
+	private int edad;
+	private string codigo;
+	private int credito;
+
+	public Personas (string miNombre,int miEdad)
+	{
+		nombre=miNombre;
+		edad=miEdad;
+	}
+
+}

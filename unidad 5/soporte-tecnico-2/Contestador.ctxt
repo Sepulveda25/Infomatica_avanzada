@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Contestador()
+comment0.text=\nCrea\ un\ Contestador\n\n
+comment1.target=String\ generarRespuesta()
+comment1.text=\nGenera\ una\ respuesta\n\n@return\ \ \ Una\ cadena\ que\ se\ podr\u00EDa\ mostrar\ como\ respuesta\n\n
+comment2.target=void\ rellenarRespuestas()
+comment2.text=\nConstruye\ una\ lista\ de\ respuestas\ por\ defecto\ desde\ donde\ se\ tomar\u00E1\nuna\ cuando\ no\ sepamso\ m\u00E1s\ qu\u00E9\ decir.\n\n
+numComments=3

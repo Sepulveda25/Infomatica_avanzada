@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=descripcion
+comment0.target=Habitacion(java.lang.String)
+comment0.text=\r\n\ Crea\ una\ habitaci\u00F3n\ descrita\ por\ "descripcion".\ \r\n\ Inicialmente,\ la\ habitaci\u00F3on\ no\ tiene\ salidas,\ "descripcion"\r\n\ es\ algo\ asi\ como\ "una\ cocina"\ o\ "un\ patio".\r\n\ \r\n\ @param\ descripcion\ La\ descripcion\ de\ la\ habitacion.\r\n
+comment1.params=direccion\ vecina
+comment1.target=void\ establecerSalida(java.lang.String,\ Habitacion)
+comment1.text=\r\n\ Define\ las\ salidas\ de\ esta\ habitaci\u00F3n.\r\n\ @param\ direccion\ La\ direccion\ de\ la\ salida\r\n\ @param\ vecina\ \ La\ habitacion\ a\ la\ cual\ esta\ salida\ conduce.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescripcionCorta()
+comment2.text=\r\n\ @return\ La\ descripcion\ corta\ de\ esta\ habitaci\u00F3n\r\n\ (la\ que\ se\ defini\u00F3\ en\ el\ constructor).\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescripcionLarga()
+comment3.text=\r\n\ Devuelve\ una\ descripcion\ de\ la\ habitacion\ en\ la\ forma\:\r\n\ \ \ \ \ Usted\ esta\ en\ la\ cocina\r\n\ \ \ \ \ Salidas\:\ norte\ oeste\r\n\ @return\ Una\ descripcion\ larga\ de\ esta\ habitaci\u00F3n\r\n
+comment4.params=
+comment4.target=java.lang.String\ getStringDeSalidas()
+comment4.text=\r\n\ Devuelve\ una\ cadena\ describiendo\ las\ salidas\ de\ la\ habitaci\u00F3n,\ por\ ejemplo\r\n\ "\r\n\ Return\ a\ string\ describing\ the\ room's\ salidas,\ for\ example\r\n\ "Salidas\:\ norte\ oeste".\r\n\ @return\ Detalles\ de\ las\ salidas\ de\ la\ habitaci\u00F3n\r\n
+comment5.params=direccion
+comment5.target=Habitacion\ getSalida(java.lang.String)
+comment5.text=\r\n\ Devuelve\ la\ habitaci\u00F3n\ a\ la\ que\ se\ llega\ si\ vamos\ desde\ esta\ habitaci\u00F3n\r\n\ en\ la\ direcci\u00F3n\ "direccion".\ Si\ no\ hay\ habitaciones\ en\ esa\ direcci\u00F3n,\r\n\ devuelve\ null.\r\n\ @param\ direccion\ La\ direcci\u00F3n\ de\ salida\r\n\ @return\ La\ habitaci\u00F3n\ en\ la\ direcci\u00F3n\ se\u00F1alada\r\n
+numComments=6

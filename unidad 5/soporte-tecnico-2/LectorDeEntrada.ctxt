@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LectorDeEntrada()
+comment0.text=\nCrea\ un\ nuevo\ LectorDeEntrada\ que\ lee\ texto\ desde\ el\ terminal\ de\ texto.\n\n
+comment1.target=String\ getEntrada()
+comment1.text=\nLee\ una\ linea\ de\ texto\ desde\ la\ entrada\ estandar\ (el\ terminal\ de\ texto)\ny\ retorna\ una\ cadena\n\n@return\ \ La\ cadena\ ingresada\ por\ el\ usuario\n\n
+numComments=2

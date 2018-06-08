@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Movimientos()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Movimientos\r\n
+comment1.params=distancia
+comment1.target=void\ moverDiagonal(int)
+comment1.text=\r\n\ Mueve\ en\ diagonal\ el\ circulo\r\n\ \r\n\ @param\ \ distancia\r\n\ \ \r\n
+numComments=2

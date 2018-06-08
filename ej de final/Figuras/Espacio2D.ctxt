@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getCantidadDeFiguras()
+comment0.text=\r\n\ Devuelve\ la\ cantidad\ de\ figuras\ de\ este\ espacio\ 2D\r\n\ @return\ the\ figuras\r\n
+numComments=1

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=activar
+comment0.target=void\ activar(boolean)
+comment0.text=\r\n\ activa\ o\ desactiva\ el\ indicador\ de\ acuerdo\ al\ parametro\ pasado\ como\ argumento\r\n\ @param\ activar\ true\ para\ activar,\ false\ para\ desactivar\r\n
+comment1.params=
+comment1.target=boolean\ esActivo()
+comment1.text=\r\n\ indica\ si\ este\ indicador\ est\uFFFD\ activo\ o\ desactivo\r\n\ @return\ true\ si\ est\uFFFD\ activo,\ false\ si\ est\uFFFD\ desactivado\r\n
+numComments=2

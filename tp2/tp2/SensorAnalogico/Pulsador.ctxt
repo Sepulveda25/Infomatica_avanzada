@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ esActivo()
+comment1.params=valor
+comment1.target=void\ setActivo(boolean)
+numComments=2

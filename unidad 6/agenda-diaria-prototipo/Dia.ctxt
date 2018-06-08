@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=diaNumero
+comment0.target=Dia(int)
+comment0.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Dia.\r\n\ @param\ diaNumero\ El\ n\u00FAmero\ de\ este\ d\u00EDa\ en\ el\ a\u00F1o(1-366).\r\n
+comment1.params=
+comment1.target=void\ mostrarCitas()
+comment1.text=\r\n\ Imprime\ la\ lista\ de\ las\ citas\ del\ d\u00EDa\r\n
+comment2.params=
+comment2.target=int\ getDiaNumero()
+comment2.text=\r\n\ @return\ El\ n\u00FAmero\ de\ este\ d\u00EDa\ en\ el\ a\u00F1o\ (1\ -\ 366).\r\n
+comment3.params=hora
+comment3.target=boolean\ horaValida(int)
+comment3.text=\r\n\ @return\ true\ si\ la\ hora\ est\u00E1\ comprendida\ entre\ la\ PRIMERA_HORA\ y\ la\r\n\ \ \ \ \ \ \ \ \ ULTIMA_HORA,\ false\ en\ caso\ contrario.\r\n
+numComments=4

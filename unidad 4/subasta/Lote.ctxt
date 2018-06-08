@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=numero\ descripcion
+comment0.target=Lote(int,\ java.lang.String)
+comment0.text=\r\n\ Construye\ un\ lote,\ estableciendo\ su\ n\u00FAmero\ y\ descripcion.\r\n\ @param\ numero\ El\ numero\ del\ lote.\r\n\ @param\ descripcion\ Una\ descripcion\ de\ este\ lote.\r\n
+comment1.params=oferta
+comment1.target=boolean\ ofertarPara(Oferta)
+comment1.text=\r\n\ Intento\ de\ ofertar\ por\ este\ lote.\ Una\ oferta\ exitosa\r\n\ debe\ tener\ un\ valor\ mayor\ a\ cualquiera\ otra\ existente.\r\n\ @param\ oferta\ Una\ oferta\ nueva.\r\n\ @return\ true\ si\ tiene\ exito,\ false\ en\ otro\ caso.\r\n
+comment2.params=
+comment2.target=java.lang.String\ aString()
+comment2.text=\r\n\ @return\ Una\ cadena\ representacion\ de\ los\ detalles\ de\ este\ lote.\r\n
+comment3.params=
+comment3.target=int\ getNumero()
+comment3.text=\r\n\ @return\ El\ n\u00FAmero\ de\ lote.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDescripcion()
+comment4.text=\r\n\ @return\ La\ descripcion\ del\ lote.\r\n
+comment5.params=
+comment5.target=Oferta\ getOfertaMaxima()
+comment5.text=\r\n\ @return\ La\ mayor\ oferta\ para\ este\ lote.\r\n\ \ \ \ \ \ \ \ \ Podr\u00EDa\ ser\ null\ si\ no\ hubiera\ una\ oferta.\r\n
+numComments=6

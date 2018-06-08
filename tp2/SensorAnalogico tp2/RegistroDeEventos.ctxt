@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RegistroDeEventos()
+comment1.params=
+comment1.target=java.util.List\ getEventos()
+comment2.params=e
+comment2.target=void\ agregarEvento(Evento)
+comment2.text=\r\n\ Agrega\ un\ evento\ al\ Registro\r\n\ Lanza\ IllegalArgumentException\ si\ el\ evento\ es\ null\r\n\ @param\ e\r\n
+comment3.params=
+comment3.target=void\ limpiarEventos()
+comment3.text=\r\n\ Elimina\ todos\ los\ eventos\ del\ Registro\r\n
+comment4.params=t
+comment4.target=java.util.List\ listarEventosPorTipo(TipoDeEvento)
+comment4.text=\r\n\ Devuelve\ una\ lista\ con\ los\ eventos\ del\ registro\ cuyo\ tipo\ es\ el\ que\ se\ pasa\ por\ argumento.\r\n\ Si\ el\ Tipo\ de\ Evento\ pasado\ como\ argumento\ es\ null\ retorna\ una\ lista\ vacia\r\n\ Si\ no\ hay\ eventos\ del\ tipo\ de\ Evento\ pasado\ como\ argumento\ en\ el\ registro\ retorna\ una\ lista\ vacia\r\n\ \ \ \r\n\ \r\n\ @param\ tipo\ de\ Eventp\r\n\ @return\ una\ lista\ de\ eventos\r\n
+numComments=5

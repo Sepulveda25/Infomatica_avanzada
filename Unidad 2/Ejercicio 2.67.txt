@@ -1,0 +1,4 @@
+public void setEdad(int nuevaedad)
+{
+	edad=nuevaedad	
+}

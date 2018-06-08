@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ mostrar()
+comment0.text=\r\n\ Setea\ el\ color\ apropiado\ de\ la\ forma\ (COLOR_CIRCULO,\ COLOR_LINEA,\ COLOR_RECTANGULO),\r\n\ Setea\ el\ flag\ visible\ en\ true,\r\n\ Lanza\ una\ IllegalStateException\ si\ la\ posicion\ de\ la\ figura\ es\ null\r\n\ \r\n
+comment1.params=
+comment1.target=void\ ocultar()
+comment1.text=\r\n\ Setea\ el\ flag\ visible\ en\ false\r\n
+comment2.params=color
+comment2.target=Figura(int)
+comment2.text=\r\n\ Constructor\ con\ parametros\r\n\ @param\ color\r\n
+comment3.params=
+comment3.target=int\ getColor()
+comment3.text=\r\n\ @return\ the\ color\r\n
+comment4.params=color
+comment4.target=void\ setColor(int)
+comment4.text=\r\n\ @param\ color\ the\ color\ to\ set\r\n
+comment5.params=
+comment5.target=boolean\ isVisible()
+comment5.text=\r\n\ @return\ the\ visible\r\n
+comment6.params=visible
+comment6.target=void\ setVisible(boolean)
+comment6.text=\r\n\ @param\ visible\ the\ visible\ to\ set\r\n
+numComments=7

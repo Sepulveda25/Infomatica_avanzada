@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=SensorAnalogico(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SensorAnalogico\r\n
+comment1.params=umbral
+comment1.target=void\ setUmbral(int)
+comment1.text=\r\n\ El\ valor\ de\ umbral\ solo\ puede\ estar\ comprendido\ entre\ 0\ y\ 1023\ inclusive.\ \r\n\r\n\ @param\ umbral\ A\ parameter\r\n
+comment2.params=valor
+comment2.target=void\ setValorActual(int)
+comment2.text=\r\n\ valor\ solo\ puede\ estar\ comprendido\ entre\ 0\ y\ 1023\ inclusive.\r\n\r\n\ @param\ valor\ A\ parameter\r\n
+comment3.params=
+comment3.target=int\ getValorActual()
+comment3.text=\r\n\ Method\ getValorActual\r\n\r\n\ @return\ The\ return\ value\r\n
+comment4.params=
+comment4.target=int\ getUmbral()
+comment4.text=\r\n\ Method\ getUmbral\r\n\r\n\ @return\ The\ return\ value\r\n
+comment5.params=
+comment5.target=boolean\ esActivo()
+comment5.text=\r\n\ Es\ activo\ cuando\ el\ valor\ lectura\ actual\ es\ MAYOR\ que\ el\ umbral.\r\n\r\n\ @return\ The\ return\ value\r\n
+numComments=6

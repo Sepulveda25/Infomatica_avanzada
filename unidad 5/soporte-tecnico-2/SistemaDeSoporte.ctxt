@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SistemaDeSoporte()
+comment0.text=\nCrea\ un\ sistema\ de\ soporte\ t\u00E9cnico.\n\n
+comment1.target=void\ inicio()
+comment1.text=\nInicia\ el\ sistema\ de\ soporte\ t\u00E9cnico.\ Imprimir\u00E1\ un\ mensaje\ de\ bienvenida\ny\ establece\ un\ di\u00E1logo\ con\ el\ usuario\ hasta\ que\ el\ usuario\ lo\ finalice.\n\n
+comment2.target=void\ imprimirBienvenida()
+comment2.text=\nImprime\ un\ mensaje\ de\ Bienvenida\ en\ la\ pantalla\n\n
+comment3.target=void\ imprimirDespedida()
+comment3.text=\nImprime\ un\ mensaje\ de\ Despedida\ en\ la\ pantalla\n\n
+numComments=4

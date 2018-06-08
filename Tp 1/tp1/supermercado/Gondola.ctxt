@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gondola()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Gondola\r\n
+comment1.params=producto\ cantidad
+comment1.target=void\ agregarProductos(Producto,\ java.lang.Integer)
+comment1.text=\r\n\ Agrega\ productos\ a\ la\ gondola.\ \r\n\ \r\n\ Si\ el\ producto\ esta\ en\ la\ gondola,\ la\ cantidad\r\n\ se\ suma\ a\ la\ cantidad\ que\ poseia\ anteriormente.\ \r\n\ \r\n\ Si\ el\ producto\ no\ esta\ en\ la\ gondola,\ lo\ agrega.\r\n\ \r\n\ @param\ \ \ producto\ \ \ \ El\ producto\ a\ agregar\r\n\ @param\ \ \ cantidad\ \ \ \ La\ cantidad\ a\ agregar\r\n
+comment2.params=producto
+comment2.target=int\ verCant(Producto)
+comment3.params=producto\ cantidad
+comment3.target=boolean\ quitarProductos(Producto,\ java.lang.Integer)
+comment3.text=\r\n\ Quita\ productos\ de\ la\ gondola\r\n\ \r\n\ Cuando\ la\ cantidad\ de\ un\ producto\ sea\ cero,\r\n\ se\ debe\ quitar\ el\ producto\ de\ la\ gondola.\r\n\ \r\n\ @param\ \ \ producto\ \ \ \ El\ producto\ a\ quitar\r\n\ @param\ \ \ cantidad\ \ \ \ La\ cantidad\ del\ producto\ a\ quitar\r\n\ @return\ \ true\ en\ caso\ de\ exito\ y\ false\ ante\ \r\n\ \ \ \ \ \ \ \ \ \ cualquier\ error\ (No\ existe\ el\ producto,\r\n\ \ \ \ \ \ \ \ \ \ la\ cantidad\ indicada\ es\ mayor\ al\ stock,\r\n\ \ \ \ \ \ \ \ \ \ cantidad\ negativa)\r\n
+comment4.params=
+comment4.target=java.util.Set\ getProductos()
+comment4.text=\r\n\ Devuelve\ un\ conjunto\ con\ los\ productos\ existentes\r\n\ en\ la\ gondola\r\n\ \r\n\ @return\ El\ conjunto\ con\ los\ productos\ de\ la\ gondola\r\n
+comment5.params=
+comment5.target=java.util.HashMap\ getMapa()
+comment5.text=\r\n\ Devuelve\ el\ mapa\ de\ los\ productos\ existentes\r\n\ en\ la\ gondola\r\n\ \r\n\ @return\ El\ mapa\ de\ los\ productos\ de\ la\ gondola\r\n
+numComments=6

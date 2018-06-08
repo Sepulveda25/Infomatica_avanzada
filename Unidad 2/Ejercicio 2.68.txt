@@ -1,0 +1,4 @@
+public void imprimirDetalle()
+{
+	System.out.println("El nombre de esta persona es " + nombre);
+}

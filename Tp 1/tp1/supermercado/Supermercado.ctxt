@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Supermercado(java.lang.String)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Supermercado\r\n
+comment1.params=gondola
+comment1.target=void\ agregarGondola(Gondola)
+comment1.text=\r\n\ Agrega\ gondolas\ al\ supermercado\r\n\ \r\n\ @param\ \ \ gondola\ \ \ \ la\ gondola\ a\ agregar\r\n
+comment2.params=
+comment2.target=int\ getCantidadDeGondolas()
+comment2.text=\r\n\ Devuelve\ la\ cantidad\ de\ gondolas\ que\ posee\ \r\n\ un\ supermercado\r\n\ \r\n\ @return\ La\ cantidad\ de\ gondolas\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment3.text=\r\n\ Devuelve\ el\ nombre\ del\ supermercado\r\n\ \r\n\ @return\ El\ nombre\ del\ supermercado\r\n
+comment4.params=
+comment4.target=java.util.HashSet\ getConjuntoDeProductos()
+comment4.text=\r\n\ Obtiene\ los\ distintos\ productos\ que\ se\ venden\r\n\ en\ el\ supermercado\r\n\ \r\n\ @return\ Los\ productos\ que\ se\ venden\r\n
+comment5.params=
+comment5.target=java.lang.String\ getProductosEnVenta()
+comment5.text=\r\n\ Devuelve\ los\ detalles\ de\ todos\ los\ productos\r\n\ que\ se\ venden\ en\ el\ supermercado\ como\ un\ String\r\n\ \r\n\ @return\ String\ Los\ productos\ en\ venta\r\n
+comment6.params=
+comment6.target=void\ imprimirProductosEnVenta()
+comment6.text=\r\n\ Imprime\ los\ detalles\ de\ los\ distintos\ productos\ que\ se\ venden\ en\ el\ supermercado\r\n
+numComments=7

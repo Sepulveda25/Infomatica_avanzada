@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=motor
+comment0.target=InterfazDeUsuario(MotorDeCalculadora)
+comment0.text=\r\n\ Crea\ una\ interfaz\ de\ usuario\r\n\ @param\ motor\ el\ motor\ de\ calculadora.\r\n
+comment1.params=visible
+comment1.target=void\ setVisible(boolean)
+comment1.text=\r\n\ Establece\ la\ visibilidad\ de\ la\ interfaz\r\n\ @param\ visible\ true\ si\ la\ interfaz\ debe\ hacerse\ visible,\ false\ en\r\n\ \ \ \ \ \ \ \ caso\ contrario.\r\n
+comment2.params=
+comment2.target=void\ hacerCuadro()
+comment2.text=\r\n\ Crea\ el\ marco\ para\ la\ interfaz\ de\ Usuario\r\n
+comment3.params=panel\ textoDelBoton
+comment3.target=void\ agregarBoton(java.awt.Container,\ java.lang.String)
+comment3.text=\r\n\ Agrega\ un\ bot\u00F3n\ al\ panel\ de\ control\r\n\ @param\ panel\ El\ panel\ que\ donde\ se\ va\ a\ agregar\ el\ bot\u00F3n\r\n\ @param\ textoDelBoton\ El\ texto\ del\ bot\u00F3n\r\n
+comment4.params=evento
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ Una\ acci\u00F3n\ de\ la\ interfaz\ fue\ ejecutada.\r\n\ Encontrar\ que\ fue\ y\ manejarla\r\n\ @param\ evento\ El\ evento\ que\ ocurri\u00F3.\r\n
+comment5.params=
+comment5.target=void\ actualizarVisor()
+comment5.text=\r\n\ Actualizar\ la\ interfaz\ visor\ para\ mostrar\ el\ valor\ actual\r\n\ del\ la\ calculadora\r\n
+comment6.params=
+comment6.target=void\ mostrarInformacion()
+comment6.text=\r\n\ Cambiar\ el\ area\ de\ status\ del\ visor\ de\ informacion\ de\ la\ \r\n\ calculadora\ alternando\ informaci\u00F3n\ del\ autor\ y\ la\ versi\u00F3n\r\n
+numComments=7

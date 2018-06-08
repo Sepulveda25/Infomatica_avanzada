@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cuadro()
+comment0.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Cuadro\r\n
+comment1.params=
+comment1.target=void\ dibujar()
+comment1.text=\r\n\ Dibuja\ esta\ pintura.\r\n
+comment2.params=
+comment2.target=void\ atardecer()
+comment2.text=\r\n\ hace\ descender\ el\ sol\ lentamente\r\n
+comment3.params=
+comment3.target=void\ armardibujo()
+comment3.text=\r\n\ Arma\ el\ dibujo\ lentamente.\r\n
+comment4.params=
+comment4.target=void\ setBlancoYNegro()
+comment4.text=\r\n\ Cambia\ esta\ pintura\ para\ ser\ mostrada\ en\ blanco\ y\ negro\r\n
+comment5.params=
+comment5.target=void\ setColor()
+comment5.text=\r\n\ Cambia\ esta\ pintura\ para\ ser\ mostrada\ en\ colores\r\n
+numComments=6

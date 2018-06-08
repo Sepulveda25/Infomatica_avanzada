@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MotorDeCalculadora()
+comment0.text=\r\n\ Crea\ un\ \ MotorDeCalculadora.\r\n
+comment1.params=
+comment1.target=int\ getValorEnVisor()
+comment1.text=\r\n\ @return\ El\ valor\ actualmente\ mostrado\ en\ el\ visor\r\n\ de\ la\ calculadora\r\n
+comment2.params=numero
+comment2.target=void\ numeroPresionado(int)
+comment2.text=\r\n\ Una\ bot\u00F3n\ de\ n\u00FAmero\ fue\ presionado\r\n\ @param\ numero\ el\ digito\ presionado.\r\n
+comment3.params=
+comment3.target=void\ mas()
+comment3.text=\r\n\ El\ boton\ '+'\ fue\ presionado\ \r\n
+comment4.params=
+comment4.target=void\ menos()
+comment4.text=\r\n\ El\ bot\u00F3n\ '-'\ fue\ presionado\r\n
+comment5.params=
+comment5.target=void\ igual()
+comment5.text=\r\n\ El\ bot\u00F3n\ '\='\ fue\ presionado\r\n
+comment6.params=
+comment6.target=void\ limpiar()
+comment6.text=\r\n\ El\ bot\u00F3n\ 'C'\ (clear-limpiar)\ fue\ presionado.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getTitulo()
+comment7.text=\r\n\ @return\ el\ t\u00EDtulo\ de\ este\ motor\ de\ c\u00E1lculo\r\n\ \r\n
+comment8.params=
+comment8.target=java.lang.String\ getAutor()
+comment8.text=\r\n\ @return\ El\ autor\ de\ este\ motor.\r\n
+comment9.params=
+comment9.target=java.lang.String\ getVersion()
+comment9.text=\r\n\ @return\ El\ numero\ de\ version\ de\ este\ motor\r\n
+numComments=10

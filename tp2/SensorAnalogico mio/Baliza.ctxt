@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Baliza()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Baliza\r\n
+comment1.params=activar
+comment1.target=void\ activar(boolean)
+comment1.text=\r\n\ activa\ o\ desactiva\ el\ indicador\ de\ acuerdo\ al\ parametro\ pasado\ como\ argumento\r\n\ @param\ activar\ true\ para\ activar,\ false\ para\ desactivar\r\n
+comment2.params=
+comment2.target=boolean\ esActivo()
+comment2.text=\r\n\ indica\ si\ este\ indicador\ esta\ activo\ o\ desactivo\r\n\ @return\ true\ si\ esta\ activo,\ false\ si\ esta\ desactivado\r\n
+numComments=3

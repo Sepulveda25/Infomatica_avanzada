@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Posicion(int,\ int)
+comment0.text=\r\n\ Constructor\ con\ parametros\r\n\ @param\ x\r\n\ @param\ y\r\n
+comment1.params=
+comment1.target=int\ getXPos()
+comment1.text=\r\n\ @return\ the\ xPos\r\n
+comment2.params=pos
+comment2.target=void\ setXPos(int)
+comment2.text=\r\n\ @param\ pos\ the\ xPos\ to\ set\r\n
+comment3.params=
+comment3.target=int\ getYPos()
+comment3.text=\r\n\ @return\ the\ yPos\r\n
+comment4.params=pos
+comment4.target=void\ setYPos(int)
+comment4.text=\r\n\ @param\ pos\ the\ yPos\ to\ set\r\n
+comment5.params=p
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

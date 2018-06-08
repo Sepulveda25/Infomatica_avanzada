@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Agenda()
+comment0.text=\r\n\ Realiza\ cualquier\ inicializacion\ que\ sea\ requerida\ para\ \r\n\ la\ agenda\r\n
+comment1.params=nota
+comment1.target=void\ guardarNota(java.lang.String)
+comment1.text=\r\n\ Almacena\ una\ nueva\ nota\ en\ la\ agenda.\r\n\ @param\ nota\ La\ nota\ a\ ser\ almacenada.\r\n
+comment2.params=
+comment2.target=int\ numeroDeNotas()
+comment2.text=\r\n\ @return\ El\ n\u00FAmero\ de\ notas\ que\ tiene\ actualmente\ la\ agenda.\r\n
+comment3.params=numeroDeNota
+comment3.target=void\ mostrarNota(int)
+comment3.text=\r\n\ Muestra\ una\ nota.\r\n\ @param\ numeroDeNota\ El\ n\u00FAmero\ de\ nota\ que\ se\ mostrar\u00E1.\r\n
+numComments=4

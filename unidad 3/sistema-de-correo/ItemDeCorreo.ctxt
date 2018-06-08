@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=de\ para\ mensaje
+comment0.target=ItemDeCorreo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Crea\ un\ item\ de\ mail\ desde\ el\ servidor\ para\ el\ destinatario\ \r\n\ dado,\ conteniendo\ el\ mensaje\ dado.\r\n\ @param\ de\ El\ remitente\ de\ este\ item.\r\n\ @param\ para\ El\ destinatario\ de\ este\ item.\r\n\ @param\ mensaje\ El\ texto\ del\ mensaje\ a\ ser\ enviado.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDe()
+comment1.text=\r\n\ @return\ EL\ remitente\ de\ este\ mensaje.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPara()
+comment2.text=\r\n\ @return\ El\ destinatario\ de\ este\ mensaje.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMensaje()
+comment3.text=\r\n\ @return\ El\ texto\ del\ mensaje.\r\n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\r\n\ Imprime\ este\ mensaje\ de\ mail\ en\ la\ terminal\ de\ texto.\r\n
+numComments=5
